@@ -2,3 +2,4 @@
 .env*.local
 .cache
 .cache*.local
+.conda/
